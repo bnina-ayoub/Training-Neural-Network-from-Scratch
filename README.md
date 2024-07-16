@@ -8,7 +8,7 @@ This project is designed to guide you through the exciting world of Neural Netwo
 
 The project consists of three Jupyter Notebooks:
 
-## 1. **Implementing Gradient Descent with Backpropagation.ipynb:**  
+## 1. **Implementing Gradient Descent with Backpropagation:**  
 ![image](https://github.com/user-attachments/assets/ede26eb8-759e-4fb4-a194-01187351aa06)
 
    ### This notebook delves into the core concept of Gradient Descent and its collaboration with Backpropagation. You'll build a Neural Network architecture from scratch using NumPy and train it on a dataset, manually implementing the backpropagation algorithm to update the network weights.
@@ -18,10 +18,13 @@ The project consists of three Jupyter Notebooks:
 
 
 
-## 2. **Implementing Regularization.ipynb:** 
+## 2. **Implementing Regularization:** 
    This notebook introduces regularization techniques, L1 and L2, used to prevent overfitting in Neural Networks. You'll define functions to calculate both L1 and L2 regularization penalties in NumPy, and explore their implementation within the PyTorch framework.
 
-## 3. **Training a Neural Network.ipynb:** 
+   ![image](https://github.com/user-attachments/assets/b3e527e4-4b4a-4afa-ae15-b03a0d3b894d)
+
+
+## 3. **Training a Neural Network:** 
    (**Starter Notebook**): This notebook serves as a starting point for building and training your own Neural Network model. It provides a basic structure to get you familiar with the process. You'll be guided through defining the model architecture, loading a dataset, and implementing the training loop. 
 
 ## **Getting Started**
@@ -58,6 +61,3 @@ Feel free to experiment within the notebooks! Here are some ideas:
 
 * Deep Learning with PyTorch: [https://www.manning.com/books/deep-learning-with-pytorch](https://www.manning.com/books/deep-learning-with-pytorch)
 * Neural Networks and Deep Learning: [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
-
-
-I hope this README provides a clear roadmap for your exploration of Neural Networks!
